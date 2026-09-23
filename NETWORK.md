@@ -7,11 +7,11 @@ Zion AI Sales Call Analyst — conversation intelligence feeding CRM and lead sc
 
 ## Related apps in the network
 
+- [Zion AI Call Analytics](https://github.com/Zion-support/zion-ai-call-analytics) — voice-of-customer insights from calls
 - [Zion AI Sales Intelligence](https://github.com/Zion-support/zion-ai-sales-intelligence) — deal insights and forecasting
-- [Zion AI Call Analytics](https://github.com/Zion-support/zion-ai-call-analytics) — voice-of-customer insights
 - [Zion AI Lead Scoring](https://github.com/Zion-support/zion-ai-lead-scoring) — AI lead scoring
-- [Zion AI Churn Predictor](https://github.com/Zion-support/zion-ai-churn-predictor) — customer health scoring
 - [AI Audio Transcriber](https://github.com/Zion-support/ai-audio-transcriber) — audio transcription
+- [Zion AI Churn Predictor](https://github.com/Zion-support/zion-ai-churn-predictor) — customer health scoring
 
 ## Part of the Zion App Network
 🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
