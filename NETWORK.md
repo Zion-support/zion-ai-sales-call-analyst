@@ -1,11 +1,17 @@
-# 🔗 Zion App Network
+# Zion AI Sales Call Analyst — Zion App Network
 
-This app is part of the **Zion App Network** — 550+ interlinked AI & IT tools by [Zion Tech Group](https://ziontechgroup.com).
+Zion AI Sales Call Analyst — conversation intelligence feeding CRM and lead scoring. Part of the [Zion Tech Group](https://ziontechgroup.com) app network.
 
-- 🏠 Homepage: https://ziontechgroup.com
-- 📂 Full catalog: https://ziontechgroup.com/apps/
-- 📢 Network overview: https://ziontechgroup.com/app-network/
-- 💻 GitHub: https://github.com/Zion-support
-- ✉️ commercial@ziontechgroup.com
+- 🔗 Live app: [https://ziontechgroup.com/zion-ai-sales-call-analyst](https://ziontechgroup.com/zion-ai-sales-call-analyst)
+- 🏠 Category: [Data & Analytics](https://github.com/Zion-support/zion-network/blob/main/network/data-analytics.md)
 
-**Related apps:** [zion-ai-sales-intelligence](https://github.com/Zion-support/zion-ai-sales-intelligence) · [zion-ai-lead-scoring](https://github.com/Zion-support/zion-ai-lead-scoring) · [zion-ai-call-analytics](https://github.com/Zion-support/zion-ai-call-analytics)
+## Related apps in the network
+
+- [Zion AI Sales Intelligence](https://github.com/Zion-support/zion-ai-sales-intelligence) — deal insights and forecasting
+- [Zion AI Call Analytics](https://github.com/Zion-support/zion-ai-call-analytics) — voice-of-customer insights
+- [Zion AI Lead Scoring](https://github.com/Zion-support/zion-ai-lead-scoring) — AI lead scoring
+- [Zion AI Churn Predictor](https://github.com/Zion-support/zion-ai-churn-predictor) — customer health scoring
+- [AI Audio Transcriber](https://github.com/Zion-support/ai-audio-transcriber) — audio transcription
+
+## Part of the Zion App Network
+🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
