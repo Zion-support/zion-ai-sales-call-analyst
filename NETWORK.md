@@ -1,10 +1,11 @@
-# Zion AI Sales Call Analyst
+# 🔗 Zion App Network
 
-Conversation intelligence feeding CRM and coaching.
+This app is part of the **Zion App Network** — 550+ interlinked AI & IT tools by [Zion Tech Group](https://ziontechgroup.com).
 
-## Network
-- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
-- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub)
-- Related: [zion-ai-sales-intelligence](https://github.com/Zion-support/zion-ai-sales-intelligence) · [zion-crm-intelligence](https://github.com/Zion-support/zion-crm-intelligence) · [zion-ai-call-analytics](https://github.com/Zion-support/zion-ai-call-analytics) · [ai-audio-transcriber](https://github.com/Zion-support/ai-audio-transcriber)
+- 🏠 Homepage: https://ziontechgroup.com
+- 📂 Full catalog: https://ziontechgroup.com/apps/
+- 📢 Network overview: https://ziontechgroup.com/app-network/
+- 💻 GitHub: https://github.com/Zion-support
+- ✉️ commercial@ziontechgroup.com
 
-*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
+**Related apps:** [zion-ai-sales-intelligence](https://github.com/Zion-support/zion-ai-sales-intelligence) · [zion-ai-lead-scoring](https://github.com/Zion-support/zion-ai-lead-scoring) · [zion-ai-call-analytics](https://github.com/Zion-support/zion-ai-call-analytics)
